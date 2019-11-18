@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
         textViewInterest.text ="Interest : %.2f".format(interest)
         textViewMonthlyRepayment.text ="Monthly Repayment : %.2f".format(monthRepay)
 
-        // Hide the keyboard.
+        // Hide the keyboard.as
 
 
     }
